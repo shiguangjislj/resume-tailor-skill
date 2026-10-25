@@ -1,4 +1,4 @@
 interface:
   display_name: "岗位适配简历"
-  short_description: "按目标岗位筛选真实经历，控制篇幅、核验成果并保留个人偏好，减少重复修改"
-  default_prompt: "使用$resume-tailor，读取我的本地经历素材和偏好，按目标岗位改写简历，只追问影响写法的关键缺口。"
+  short_description: "按互联网岗位要求挖掘真实经历，沉淀素材库并撰写适配简历"
+  default_prompt: "使用$resume-tailor，先确认我的目标岗位和JD范围，再挖掘真实经历，交付完整素材库与适配简历。"
